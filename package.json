@@ -34,7 +34,7 @@
     "gel-grid": "^4.0.0",
     "gel-sass-tools": "^1.2.1",
     "gel-typography": "^2.0.5",
-    "glob": "^7.1.7",
+    "glob": "^7.2.0",
     "gulp": "^4.0.2",
     "headmatter": "0.0.2",
     "markdown-it": "^8.4.2",
