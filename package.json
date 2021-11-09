@@ -49,7 +49,7 @@
     "slug": "^0.9.4",
     "sticky-js": "^1.2.0",
     "sweet-scroll": "^3.0.1",
-    "uglify-js": "^3.14.1"
+    "uglify-js": "^3.14.3"
   },
   "resolutions": {
     "yargs-parser": "^18.1.3"
